@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying at ITMO university.
-- 🌱 I’m currently learning Java, Web Frameworks, Dart, Kotlin.
+- 🌱 I’m currently learning Java, Web Frameworks, Dart, Kotlin, Python.
 - 😁 Django 
 - 📫 How to reach me: artemychych@gmail.com
 - ⚡ Ready to programming!

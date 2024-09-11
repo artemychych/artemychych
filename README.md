@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently studying at ITMO university.
+- 🔭 Graduated from ITMO university.
 - 🌱 I’m currently learning Java, Web Frameworks, Dart, Kotlin, Python.
 - 😁 Django 
 - 📫 How to reach me: artemychych@gmail.com
